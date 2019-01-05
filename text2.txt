@@ -1,0 +1,5 @@
+Test 11g, 10g databases on Linux Platforms.
+•	Experience in Installation and configuration of Oracle 10g, 11g in LINUX & windows platforms.
+•	Experience in configuration of 2 node RAC environment in OEL 5.5 for oracle 10,11g databases in Linux Platform.
+•	Knowledge on Architectures of stand Alone Database and Real Application Cluster (RAC) Database.
+•	Expertise in taking the 
